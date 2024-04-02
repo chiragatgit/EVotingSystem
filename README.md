@@ -2,6 +2,8 @@
 
 The organization requires an E-Voting System to conduct online elections. The system should allow users to create elections, cast votes, and monitor election results. The application will be built using Spring Boot, Hibernate, and MySQL for the database. It should include CRUD operations to manage elections, election choices, and votes easily.
 
+![evotingapp](https://github.com/chiragatgit/EVotingSystem/assets/119803371/fe27e311-c6ba-4404-99f9-b2aaf0a760ba)
+
 ## Features of the Application:
 
 The application should allow users to:
